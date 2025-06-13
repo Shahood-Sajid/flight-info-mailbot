@@ -1,0 +1,1 @@
+This is a poc done and tested which reads all the contents of the undread emails and send it to the llm model which creates a payload which is sent to a flights api. The response given by the api is then sent back to the model to format it so that it can understand by the human
